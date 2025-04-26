@@ -41,13 +41,23 @@ While building this project, I gained a deeper understanding of the following co
    ```
 2. **Install Dependencies**:
    Make sure you have Node.js installed, then run:
-   `npm install`
+
+   ```bash
+   npm install
+
+   ```
 
 3. **_Start the JSON Server_**:
    The quiz questions are served from a local JSON server. Start the server using:
-   `npm run server`
+
+   ```bash
+   npm run server
    This will serve the questions from questions.json on http://localhost:8000.
+
+   ```
 
 4. **Start the React App**:
    Run the following command to start the React development server:
-   `npm start`
+   ```bash
+   npm start
+   ```
